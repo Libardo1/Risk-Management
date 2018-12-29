@@ -1,1 +1,1 @@
-jupyter notebooks exploring different aspects of risk management
+jupyter notebooks exploring different aspects of mathematical risk management
